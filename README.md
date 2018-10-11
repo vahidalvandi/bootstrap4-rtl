@@ -8,7 +8,7 @@ usage:
 <!-- Original Bootstrap 4.x -->
 <link rel="stylesheet" href="bootstrap.css">
 
-<!-- Bootstrap RTL Theme -->
+<!-- Bootstrap RTL  -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
 
