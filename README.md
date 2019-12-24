@@ -12,7 +12,7 @@ usage:
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
 
-[Developed by](http://www.webine.ir)
+[Developed by webine](http://www.webine.ir)
 
 
 
