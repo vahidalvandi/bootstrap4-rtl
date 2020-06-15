@@ -1,5 +1,5 @@
 # bootstrap4-rtl
-Bootstrap 4 RTL
+simple RTL plugin for Bootstrap 4 . with this version you can use official vertion css or scss bootstrap 4 and add this rtl bellow it
 
 ```html
 
