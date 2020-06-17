@@ -527,3 +527,14 @@ body {
 .table-striped tr td:last-of-type {
     border-radius: 5px 0 0 5px;
 }
+
+/* ------------------- breadcrumb ------------------------ */
+.breadcrumb-item + .breadcrumb-item::before {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+
+}
+
+.breadcrumb-item + .breadcrumb-item {
+    padding-left: 0;
+}
