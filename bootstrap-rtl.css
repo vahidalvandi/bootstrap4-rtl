@@ -543,3 +543,8 @@ body {
 .breadcrumb-item + .breadcrumb-item {
     padding-left: 0;
 }
+
+/* -------------------------------- progress -------------------------------- */
+.progress{
+	justify-content: flex-end;
+}
