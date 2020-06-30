@@ -8,6 +8,10 @@ usage:
 <!-- Original Bootstrap 4.x -->
 <link rel="stylesheet" href="bootstrap.css">
 
+<!-- OR SCSS version -->
+
+@import '~bootstrap/scss/bootstrap';
+
 <!-- Bootstrap RTL  -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
