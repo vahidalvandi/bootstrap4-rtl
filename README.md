@@ -12,7 +12,7 @@ usage:
 
 @import '~bootstrap/scss/bootstrap';
 
-<!-- Bootstrap RTL  -->
+<!--Then after add original css or scss add Bootstrap RTL  -->
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
 
