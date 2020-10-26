@@ -538,3 +538,13 @@ body {
 .breadcrumb-item + .breadcrumb-item {
     padding-left: 0;
 }
+
+.dropdown-menu{
+    right:0;
+    left:unset;
+}
+.modal-header .close{
+    margin-right:auto;
+    margin-left:-1rem;
+    float:left;
+}
