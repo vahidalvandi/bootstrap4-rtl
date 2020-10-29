@@ -543,6 +543,9 @@ body {
     right:0;
     left:unset;
 }
+.dropdown-menu.show{
+    left:unset !important;
+}
 .modal-header .close{
     margin-right:auto;
     margin-left:-1rem;
