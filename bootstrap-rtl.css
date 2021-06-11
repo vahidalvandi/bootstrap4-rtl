@@ -544,7 +544,16 @@ body {
     padding-left: 0;
 }
 
-/* -------------------------------- progress -------------------------------- */
-.progress{
-	justify-content: flex-end;
+.dropdown-menu{
+    right:0;
+    left:unset;
+}
+.dropdown-menu.show{
+    left:unset !important;
+    text-align:right;
+}
+.modal-header .close{
+    margin-right:auto;
+    margin-left:-1rem;
+    float:left;
 }
